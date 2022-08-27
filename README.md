@@ -4,3 +4,5 @@
 
 #Projects
 -[Proj 1A Housing Part 1] (./proj/proj1a)
+
+[x] [Lab01. Prerequisite Coding](./Labs/lab01.ipynb)
