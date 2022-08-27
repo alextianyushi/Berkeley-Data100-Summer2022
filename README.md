@@ -3,6 +3,7 @@
 #Here is my exchange study record of Berkeley Data 100 in 2022 Summer.
 
 #Projects
--[Proj 1A Housing Part 1] (./proj/proj1a)
+-
+[Proj 1A Housing Part 1] (./proj/proj1a)
 
-[x] [Lab01. Prerequisite Coding](./Labs/lab01.ipynb)
+[Lab01. Prerequisite Coding](./Labs/lab01.ipynb)
